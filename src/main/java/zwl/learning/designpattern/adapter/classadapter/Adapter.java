@@ -1,4 +1,4 @@
-package zwl.learning.designpattern.adapter;
+package zwl.learning.designpattern.adapter.classadapter;
 
 /**
  * @author zhangwanli

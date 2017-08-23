@@ -1,4 +1,4 @@
-package zwl.learning.designpattern.adapter;
+package zwl.learning.designpattern.adapter.classadapter;
 
 /**
  * Created by dmall on 2017/8/22.
